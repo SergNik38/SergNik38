@@ -4,17 +4,6 @@ I build and maintain production web products end to end: domain model and API,
 admin panels and storefronts, payments, CI/CD and deployment.
 Open to freelance and contract work, fully remote.
 
-## Open source: Hydra Launcher for macOS
-
-**[SergNik38/hydra](https://github.com/SergNik38/hydra)** — an unofficial macOS port of the open-source [Hydra Launcher](https://github.com/hydralauncher/hydra) (Electron, React, TypeScript, Rust). It lets Mac users play Windows games without setting anything up: on the first launch Hydra downloads and manages Wine, DXVK for DirectX 10/11, and the Visual C++ runtimes, and gives every game its own Wine prefix.
-
-*TypeScript, Electron, React · Rust (native addon, libtorrent) · Wine, DXVK, MoltenVK*
-
-- Runs on Intel and Apple Silicon Macs; Windows games are tracked while running and stopped from the app.
-- Windows installers, cloud saves inside Wine prefixes, desktop shortcuts and update notifications work on macOS.
-
-[⬇️ Download the latest release](https://github.com/SergNik38/hydra/releases/latest)
-
 ## Recent commercial work
 
 Most of my commercial code lives in private client repositories, so here is a summary.
