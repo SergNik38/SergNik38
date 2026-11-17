@@ -12,7 +12,6 @@ Open to freelance and contract work, fully remote.
 
 - Runs on Intel and Apple Silicon Macs; Windows games are tracked while running and stopped from the app.
 - Windows installers, cloud saves inside Wine prefixes, desktop shortcuts and update notifications work on macOS.
-- Built with an AI-assisted workflow: an orchestrator plans, reviews and verifies, coding models implement in isolated git worktrees.
 
 [⬇️ Download the latest release](https://github.com/SergNik38/hydra/releases/latest)
 
